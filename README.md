@@ -1,2 +1,3 @@
 # Calculadora
-Uma calculadora criada usando HTML, CSS e JavaScript.
+
+Mini projeto criado com intuido de fixar conteúdos que estudei sobre html, css e javascript.
